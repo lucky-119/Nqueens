@@ -1,2 +1,2 @@
-# Python
-python practice
+# Nqueens
+Nqueen Implementation in Python
